@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [7.4.0](https://github.com/terraform-google-modules/terraform-google-network/compare/v7.3.0...v7.4.0) (2023-08-26)
+
+
+### Features
+
+* add firewall policy enforcement order ([#486](https://github.com/terraform-google-modules/terraform-google-network/issues/486)) ([a65c41a](https://github.com/terraform-google-modules/terraform-google-network/commit/a65c41a8afede4a6cc64d5090c91a6cb25a23f87))
+
 ## [7.3.0](https://github.com/terraform-google-modules/terraform-google-network/compare/v7.2.0...v7.3.0) (2023-08-09)
 
 
